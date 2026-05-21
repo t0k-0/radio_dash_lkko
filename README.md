@@ -1,4 +1,8 @@
 # RADIO DASH (LKKO)
+
+## VAROVÁNÍ / WARNING
+Informace poskytované tímto systémem jsou NEGARANTOVANÉ. Tvůrce neručí za jejich správnost a nebere odpovědnost za jakoukoli situaci vzniklou v následku jejich použití.
+
 ### Popis
 Radio DASH je software vytvořen pomocí **Claude AI (Sonnet 4.6)** na základě *HTML* souboru od **Štěpána Bartoše** s názvem "Radio Watch", ze kterého byl přejat zejména segment s 3D řešením prostorů TRA GA (1A-D, 2A-D) LKKO.
 
